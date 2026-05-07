@@ -1,6 +1,6 @@
-### Petrit Isufi · Data Engineer in Wuppertal
+### Petrit Isufi · Data Scientist / Engineer in Wuppertal
 
-In meinem Day Job arbeite ich im Öpnv in Nrw mit verschiedenen Sachen:
+In meinem Day Job arbeite ich mit Daten im ÖPNV Bereich in Nrw mit verschiedenen Sachen:
 Zentrales Data Warehouse, ETL, Grafana-Monitoring, Power-BI-Reporting.
 
 Privat interessiere ich mich mehr für KI. Dazu habe ich einen Mini-PC im Wohnzimmer mit vier autonomen LLM-Agenten. Unter anderem führen sie Bug-Bounty-Audits, pushen Feature-Branches in eine Community-Webapp, schreiben viel viel Code. Schreibe meist in Python und Bash; aktuell viel Zeit mit LLM-Orchestrierung über LiteLLM und Claude.
